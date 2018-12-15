@@ -1,0 +1,73 @@
+[ {
+  "id" : 1,
+  "postalCode" : 522019,
+  "street" : "KRRStreetVally",
+  "city" : "Guntur"
+} , 
+ {
+  "id" : 2,
+  "postalCode" : 522019,
+  "street" : "TikkiReddyPalem",
+  "city" : "Hyderabad"
+} , 
+ {
+  "id" : 3,
+  "postalCode" : 522019,
+  "street" : "Prathipadu",
+  "city" : "Vizag"
+} , 
+{
+  "id" : 4,
+  "postalCode" : 522019,
+  "street" : "KRRStreetVally",
+  "city" : "Guntur"
+} , 
+ {
+  "id" : 5,
+  "postalCode" : 522019,
+  "street" : "TikkiReddyPalem",
+  "city" : "Guntur"
+} , 
+ {
+  "id" : 6,
+  "postalCode" : 522019,
+  "street" : "Prathipadu",
+  "city" : "Guntur"
+} , 
+ {
+  "id" : 7,
+  "postalCode" : 522019,
+  "street" : "KRRStreetVally",
+  "city" : "Guntur"
+} , 
+ {
+  "id" : 8,
+  "postalCode" : 522019,
+  "street" : "TikkiReddyPalem",
+  "city" : "Hyderabad"
+} , 
+ {
+  "id" : 9,
+  "postalCode" : 522019,
+  "street" : "Prathipadu",
+  "city" : "Vizag"
+} , 
+{
+  "id" : 10,
+  "postalCode" : 522019,
+  "street" : "KRRStreetVally",
+  "city" : "Guntur"
+} , 
+ {
+  "id" : 11,
+  "postalCode" : 522019,
+  "street" : "TikkiReddyPalem",
+  "city" : "Guntur"
+} , 
+ {
+  "id" : 12,
+  "postalCode" : 522019,
+  "street" : "Prathipadu",
+  "city" : "Guntur"
+} 
+]

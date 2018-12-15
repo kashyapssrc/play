@@ -1,0 +1,22 @@
+[ {
+  "id": 1,
+  "first_name": "PavanKumar",
+  "last_name": "Koyi",
+  "email": "pavan.koyi@gmail.com",
+  "birth_date": "1997-09-04"
+} , 
+ {
+  "id": 2,
+  "first_name": "Venkata Sai Kiran",
+  "last_name": "Janam",
+  "email": "saik61771@gmaill.com",
+  "birth_date": "1996-08-01"
+} , 
+ {
+  "id": 3,
+  "first_name": "Hemanth",
+  "last_name": "Kothamasu",
+  "email": "kumarkhemanth28@gmail.com",
+  "birth_date": "1997-09-10"
+} 
+]
